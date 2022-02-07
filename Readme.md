@@ -140,7 +140,6 @@ The design specifications for the MechaCar suspension coils dictate that the var
 # Metrics
 Collecting data for comparable models across all major manufacturers for past 3 years for the following metrics:
 
-<<<<<<< HEAD
 *  Safety Feature Rating: Independent Variable
 *  Current Price (Selling): Dependent Variable
 *  Drive Package : Independent Variable
