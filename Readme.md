@@ -148,29 +148,15 @@ Collecting data for comparable models across all major manufacturers for past 3 
 *  Resale Value: Independent Variable
 *  Average Annual Cost of ownership (Maintenance): Independent Variable
 *  MPG (Gasoline Efficiency): Independent Variable
-=======
-*  Safety Feature Rating: **Independent Variable**
-*  Current Price (Selling): **Dependent Variable**
-*  Drive Package : **Independent Variable**
-*  Engine (Electric, Hybrid, Gasoline / Conventional): **Independent Variable**
-*  Resale Value: **Independent Variable**
-*  Average Annual Cost of ownership (Maintenance): **Independent Variable**
-*  MPG (Gasoline Efficiency): **Independent Variable**
->>>>>>> 096d81723c87ca5c6903458dfc76c74d2d598845
+
 
 # Hypothesis: Null and Alternative
 After determining which factors are key for the MechaCar's genre:
 
-<<<<<<< HEAD
-  Null Hypothesis (Ho): MechaCar is priced correctly based on its performance of key factors for its genre.
-  Alternative Hypothesis (Ha): MechaCar is NOT priced correctly based on performance of key factors for its genre.
+ Null Hypothesis (Ho): MechaCar is priced correctly based on its performance of key factors for its genre.
+ Alternative Hypothesis (Ha): MechaCar is NOT priced correctly based on performance of key factors for its genre.
  
 # Statistical Tests
 A multiple linear regression would be used to determine the factors that have the highest correlation/predictability with the list selling price (dependent variable); which combination has the greatest impact on price.
-=======
- * Null Hypothesis (Ho): MechaCar is priced correctly based on its performance of key factors for its genre.
- * Alternative Hypothesis (Ha): MechaCar is NOT priced correctly based on performance of key factors for its genre.
- 
-# Statistical Tests
-A **multiple linear regression** would be used to determine the factors that have the highest correlation/predictability with the list selling price (dependent variable); which combination has the greatest impact on price.
->>>>>>> 096d81723c87ca5c6903458dfc76c74d2d598845
+
+
